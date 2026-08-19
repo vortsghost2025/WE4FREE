@@ -1,0 +1,4 @@
+# No secrets
+.env
+node_modules/
+dist/
