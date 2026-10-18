@@ -3,6 +3,8 @@
 > **Free forever. No ads. No data collection. Open source.**  
 > Offline-first listing of every free Government of Canada mental health resource so people with no signal can still find help.
 
+☕ Support this work on [Ko-fi](https://ko-fi.com/meshcast)
+
 **Live:** https://orangered-jellyfish-637583.hostingersite.com/resources.html • **Code:** https://github.com/vortsghost2025/FreeAgent/tree/main/WE4FREE
 
 ### Why
