@@ -1,7 +1,7 @@
 // WE4Free Service Worker - Offline-First Crisis Support
-// Version 1.0.0
+// Version 1.0.1
 
-const CACHE_NAME = 'we4free-v10';
+const CACHE_NAME = 'we4free-v11';
 const EMERGENCY_CACHE = 'we4free-emergency-v1';
 
 // Critical resources that MUST be available offline
@@ -30,7 +30,7 @@ const EMERGENCY_DATA = {
         '211': { service: 'Community Services', canada: true },
         '1-800-668-6868': { service: 'Kids Help Phone', canada: true, text: 'CONNECT to 686868' }
     },
-    version: '1.0.0',
+    version: '1.0.1',
     updated: new Date().toISOString()
 };
 
