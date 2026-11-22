@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "generated": "2026-02-13T21:57:36.456529Z",
+  "version": "1.0.1",
+  "generated": "2026-11-22T16:30:00.000000Z",
   "algorithm": "SHA-256",
   "files": {
     "/index.html": {
@@ -9,9 +9,9 @@
       "added": "2026-02-13T21:57:36.456529Z"
     },
     "/resources.html": {
-      "sha256": "54cb17bf6e24ce3dec0ade121bfc03a7b774b3bca098d9d865fc4730fbbc4929",
-      "size": 113634,
-      "added": "2026-02-13T21:57:36.456529Z"
+      "sha256": "bdf00803a2d587502e3d6c06f5b2b7ce15c35b01c6fc7e305c53ac8db7055f10",
+      "size": 124645,
+      "added": "2026-11-22T16:30:00.000000Z"
     },
     "/emergency.html": {
       "sha256": "515225c4491e007188a03050da07fd8b54141f1178d54e17a96872da815263ed",
@@ -19,19 +19,19 @@
       "added": "2026-02-13T21:57:36.456529Z"
     },
     "/webchat.html": {
-      "sha256": "ab67df485606f86659fd50a5046e1d063380c9c5db5ff40cf1735c0aa35bfdf0",
-      "size": 12837,
-      "added": "2026-02-13T21:57:36.456529Z"
+      "sha256": "c00e414aa9ae3403ac85e8c1891bc2be1f3d074361742f79e213c5cbb012af9a",
+      "size": 4771,
+      "added": "2026-11-22T16:30:00.000000Z"
     },
     "/escalate.html": {
-      "sha256": "558d06959653563cb5973239da98230ec737118e01751b7b7cbee1be807b001d",
-      "size": 9943,
-      "added": "2026-02-13T21:57:36.456529Z"
+      "sha256": "d8617bd80ddefe67010cb9c557917697e7fd778e6bd415de3cfe1fdbc3863905",
+      "size": 10018,
+      "added": "2026-11-22T16:30:00.000000Z"
     },
     "/sw.js": {
-      "sha256": "afdcf95ef1c52e9ce61992a9534ac663ab3ee8ab88806dfb2b75865c67cb6f79",
-      "size": 7310,
-      "added": "2026-02-13T21:57:36.456529Z"
+      "sha256": "41d966570e5e2f255c148abc6ce3b4a92e9eb433dc5bc374de65d02a710b2213",
+      "size": 7107,
+      "added": "2026-11-22T16:30:00.000000Z"
     },
     "/manifest.json": {
       "sha256": "cf9dddf1c3c75b6a360d1b60071a127cc40c85233d285399bd97a4a60fc57fd2",
